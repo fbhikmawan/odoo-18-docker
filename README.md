@@ -62,8 +62,7 @@ odoo-docker/
 │   └── wait-for-psql.py     # Database connection utility
 ├── addons/                   # Custom Odoo modules/addons
 │   ├── oca/                 # OCA community addons (submodules)
-│   └── asaidgroup/          # ASAid custom addons (submodules)
-├── .env                      # Environment variables (excluded from git)
+├── .env.example              # Environment variables sample
 ├── .gitignore                # Git ignore rules
 ├── .gitmodules               # Git submodule definitions
 ├── docker-compose.yml        # Docker Compose configuration
