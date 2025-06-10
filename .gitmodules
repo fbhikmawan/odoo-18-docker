@@ -1,0 +1,12 @@
+[submodule "addons/oca/server-tools"]
+	path = addons/oca/server-tools
+	url = https://github.com/OCA/server-tools.git
+	branch = 18.0
+[submodule "addons/oca/web"]
+	path = addons/oca/web
+	url = https://github.com/OCA/web.git
+	branch = 18.0
+[submodule "addons/oca/website"]
+	path = addons/oca/website
+	url = https://github.com/OCA/website.git
+	branch = 18.0
